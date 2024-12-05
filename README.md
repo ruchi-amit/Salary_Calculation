@@ -4,5 +4,6 @@ The provided dataset consists of two separate sheets: one for Budget and one for
 
 Answer: Saving_Summary.CSV file
 
-2.Write an SQL query to identify the department with the highest annual savings.
+2. Write an SQL query to identify the department with the highest annual savings.
+
 Answer: highestsavingresult.csv
